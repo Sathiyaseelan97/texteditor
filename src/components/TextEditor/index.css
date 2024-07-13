@@ -1,0 +1,12 @@
+.image-container {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+}
+.central-container{
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+}
